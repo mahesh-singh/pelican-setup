@@ -4,6 +4,9 @@ Category: books
 Tags: personal
 Slug: book-reading-list-for-2016
 
+
+I have curated a list of books which I would like to finish in 2016. 
+
 - [Deep Work: Rules for Focused Success in a Distracted World](http://amzn.to/1TsHnku)
 - [10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works](http://amzn.to/1m3brpq)
 - [Kashi Ka Aasi](http://amzn.to/20yTZZj)
