@@ -41,6 +41,7 @@ I think there is not much progress. I am almost working on same set of technolog
 
 This year my focus will be have couple of more skills under the belt
 - Data Science - It’s a big topic, but my focus will be to complete couple of books and some introductory courses on courser.
+
 - Understanding Docker 
 
 
