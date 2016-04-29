@@ -9,3 +9,5 @@ Slug: now
 - Book : Deep Work
 
 - Side project : Store locator
+
+[2016 reading list]({filename}/book-reading-list-for-2016.md)
